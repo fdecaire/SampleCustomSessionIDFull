@@ -1,0 +1,5 @@
+c:\users\frank\documents\visual studio 2015\Projects\SampleCustomSessionIDFull\MyCustomSession\bin\Debug\MyCustomSession.dll
+c:\users\frank\documents\visual studio 2015\Projects\SampleCustomSessionIDFull\MyCustomSession\bin\Debug\MyCustomSession.pdb
+c:\users\frank\documents\visual studio 2015\Projects\SampleCustomSessionIDFull\MyCustomSession\obj\Debug\MyCustomSession.csprojResolveAssemblyReference.cache
+c:\users\frank\documents\visual studio 2015\Projects\SampleCustomSessionIDFull\MyCustomSession\obj\Debug\MyCustomSession.dll
+c:\users\frank\documents\visual studio 2015\Projects\SampleCustomSessionIDFull\MyCustomSession\obj\Debug\MyCustomSession.pdb
